@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIDailyPlanner.props" />
+</Project>
